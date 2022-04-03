@@ -1,0 +1,6 @@
+com/globalhome/web/pages/GlobalMyStorePage.class
+com/globalhome/web/base/BasePage.class
+com/globalhome/web/utilities/DriverProvider.class
+com/globalhome/web/utilities/PropertiesProvider.class
+com/globalhome/web/base/BaseAction.class
+com/globalhome/web/constants/BrowserConstants.class
